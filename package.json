@@ -1,0 +1,22 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashish30/git_testnew.git"
+  },
+  "author": "Ashish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashish30/git_testnew/issues"
+  },
+  "homepage": "https://github.com/ashish30/git_testnew#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
